@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://haddita.github.io/sitemap/sitemap.txt
